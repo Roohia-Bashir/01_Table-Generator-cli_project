@@ -20,7 +20,7 @@ How to Use:
 Install the project globally via npm: npm i rs_table-generator-cli_project
 Input your data in the desired format, following the prompts provided.
 Customize table settings as needed.
-Generate the table using the provided command: table-cli generate.
+Generate the table using the provided command: npx rs_table-generator-cli_project.
 Export the table in your preferred format.
 For detailed usage instructions and examples, please refer to the project's documentation.
 
